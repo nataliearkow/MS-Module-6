@@ -21,7 +21,7 @@
 # Features
 - Created a website that displays a weather dashboard
 - Shows current weather data and a future 5 day forecast
-- User can search for city's weather
+- User can search for city's weather forecast at the top left. 
 
 # Photo
 <img width="1440" alt="Screen Shot 2022-08-25 at 7 26 45 PM" src="https://user-images.githubusercontent.com/109115351/186786625-d71a86d9-36a8-47cf-96ee-cecff5c3918b.png">
